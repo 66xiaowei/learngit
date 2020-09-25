@@ -2,3 +2,11 @@ I like git operation
 and I found it's really usefully
 we make code just for fluently working and effiecent good job out
 
+the biggest efficient is that we do not need to think about the github,and no net it can be work after net,we just put the file to github while we have the net.
+so,we need to understand__1.good codes__2.just work at codes,no use the pycharm
+ 
+
+
+
+
+
